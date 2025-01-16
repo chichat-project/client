@@ -17,6 +17,8 @@ import rightarrow from './RightArrow.png';
 import userrightarrow from './UserRightArrow.png';
 import friendrightarrow from './FreindRightArrow.png';
 import close from './Close.png';
+import inputuser from './InputUser.png';
+import inputPassword from './InputPassword.png';
 
 export const images = {
   Logo: logo,
@@ -38,4 +40,6 @@ export const images = {
   UserRightArrow: userrightarrow,
   FriendRightArrow: friendrightarrow,
   Close: close,
+  InputUser: inputuser,
+  InputPassword: inputPassword,
 };

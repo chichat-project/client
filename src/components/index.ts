@@ -5,3 +5,5 @@ export * from './Footer';
 export * from './Message/MessageContent';
 export * from './Message/MessageInput';
 export * from './Message/ExpandableTextModal';
+export * from './UserFormInput';
+export * from './LoginButton';
