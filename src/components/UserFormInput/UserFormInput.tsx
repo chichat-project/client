@@ -16,7 +16,7 @@ export default function UserFormInput({ type }: UserFormInputProps) {
     },
     password: {
       placeholderText: '비밀번호',
-      image: images.inputPassword,
+      image: images.InputPassword,
     },
   };
 
